@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.exe
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.deps.json
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.dll
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\bin\Debug\netcoreapp3.1\Deck Of Cards.pdb
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.dll
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.pdb
+D:\SoftUni20\C# Fundamentals\Exams\Deck Of Cards\obj\Debug\netcoreapp3.1\Deck Of Cards.genruntimeconfig.cache

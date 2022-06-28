@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0E8Unb7a9XI+m9MPg6aY3o+R4V5hACrEaNYYHFj+ioFJ8n5409SRm4Y+wUU+6S/7NH/+/vPkYH707qKbk9+6/w==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exams\\Crafting\\Crafting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

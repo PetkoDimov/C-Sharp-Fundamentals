@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HluH5O0POvglSM7aoh0J+XKquktyEDSd6HKJOvgvFNLCRXqKJzZs6THsk+4mDmOsquPbBjr9vf6g5mfuevtOmQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exams\\Deck Of Cards\\Deck Of Cards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

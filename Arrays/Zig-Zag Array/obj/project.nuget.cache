@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u9BkwJRYb0cM2CRZTzT3ujquU6XMEAkPFnCdcCzauvzIgjHGpmkXPHuXcvcoyO1Ttt2HzZj2RkQ16g+9VMKFEA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Arrays\\Zig-Zag Array\\Zig-Zag Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

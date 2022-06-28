@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SmRWp2BB7t9kbBCSDSRJgWC7vgbLwaBpKC56VHeec6Dnlc68E0p9NUOl5f+eaDhfZX2P2X1uVocJqw7n7LTGMg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Lists\\List Manipolations Advanced\\List Manipolations Advanced.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.exe
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.deps.json
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.dll
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\bin\Debug\netcoreapp3.1\SumOfChars.pdb
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.dll
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.pdb
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\SumOfChars\obj\Debug\netcoreapp3.1\SumOfChars.genruntimeconfig.cache

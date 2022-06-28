@@ -1,0 +1,12 @@
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.exe
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.deps.json
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.dll
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\bin\Debug\netcoreapp3.1\TriplesOfLatinLetters.pdb
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.dll
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.pdb
+D:\SoftUni20\C# Fundamentals\Data Type And Variables\TriplesOfLatinLetters\obj\Debug\netcoreapp3.1\TriplesOfLatinLetters.genruntimeconfig.cache

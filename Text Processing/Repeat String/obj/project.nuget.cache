@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4avcCe4Cah+sbVXNsHudS4NA2eXne++jXhsfF+Q8PfOM8Gp/mHQj/7wpCNYKFZEEcS2Q76W8gx/CRdhtqpAyw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Text Processing\\Repeat String\\Repeat String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

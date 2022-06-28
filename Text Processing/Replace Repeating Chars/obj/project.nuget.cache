@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "audi32cnHS9YO9j9v3gP9b20Qvv7ZboxpqlrGErZSszK6h5V9d8nHbhDqixLCd3JbDHA31sAlTYYKsxA2FZMLw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Text Processing\\Replace Repeating Chars\\Replace Repeating Chars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

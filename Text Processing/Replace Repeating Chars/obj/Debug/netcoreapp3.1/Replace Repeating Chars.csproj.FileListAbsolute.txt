@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.exe
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.deps.json
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.dll
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\bin\Debug\netcoreapp3.1\Replace Repeating Chars.pdb
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.dll
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.pdb
+D:\SoftUni20\C# Fundamentals\Text Processing\Replace Repeating Chars\obj\Debug\netcoreapp3.1\Replace Repeating Chars.genruntimeconfig.cache

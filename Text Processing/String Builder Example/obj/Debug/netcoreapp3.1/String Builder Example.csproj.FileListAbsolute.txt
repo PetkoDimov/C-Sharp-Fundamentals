@@ -1,0 +1,13 @@
+C:\Users\Close2die\source\repos\String Builder Example\bin\Debug\netcoreapp3.1\String Builder Example.exe
+C:\Users\Close2die\source\repos\String Builder Example\bin\Debug\netcoreapp3.1\String Builder Example.deps.json
+C:\Users\Close2die\source\repos\String Builder Example\bin\Debug\netcoreapp3.1\String Builder Example.runtimeconfig.json
+C:\Users\Close2die\source\repos\String Builder Example\bin\Debug\netcoreapp3.1\String Builder Example.runtimeconfig.dev.json
+C:\Users\Close2die\source\repos\String Builder Example\bin\Debug\netcoreapp3.1\String Builder Example.dll
+C:\Users\Close2die\source\repos\String Builder Example\bin\Debug\netcoreapp3.1\String Builder Example.pdb
+C:\Users\Close2die\source\repos\String Builder Example\obj\Debug\netcoreapp3.1\String Builder Example.csprojAssemblyReference.cache
+C:\Users\Close2die\source\repos\String Builder Example\obj\Debug\netcoreapp3.1\String Builder Example.AssemblyInfoInputs.cache
+C:\Users\Close2die\source\repos\String Builder Example\obj\Debug\netcoreapp3.1\String Builder Example.AssemblyInfo.cs
+C:\Users\Close2die\source\repos\String Builder Example\obj\Debug\netcoreapp3.1\String Builder Example.csproj.CoreCompileInputs.cache
+C:\Users\Close2die\source\repos\String Builder Example\obj\Debug\netcoreapp3.1\String Builder Example.dll
+C:\Users\Close2die\source\repos\String Builder Example\obj\Debug\netcoreapp3.1\String Builder Example.pdb
+C:\Users\Close2die\source\repos\String Builder Example\obj\Debug\netcoreapp3.1\String Builder Example.genruntimeconfig.cache

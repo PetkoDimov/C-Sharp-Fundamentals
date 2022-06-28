@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GLhnNfdK8vP4Mkct9ny+QSxLUuzAxwNNZPv5OGDP3s3vM8qZ45vPYYXvAPdoH0hfhTtS8G8Tb770b3P0PxWHpw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exercse Basic Syntax\\Sort Numbers\\Sort Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

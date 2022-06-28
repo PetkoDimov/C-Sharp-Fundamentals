@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\bin\Debug\netcoreapp3.1\Student Information.exe
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\bin\Debug\netcoreapp3.1\Student Information.deps.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\bin\Debug\netcoreapp3.1\Student Information.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\bin\Debug\netcoreapp3.1\Student Information.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\bin\Debug\netcoreapp3.1\Student Information.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\bin\Debug\netcoreapp3.1\Student Information.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\obj\Debug\netcoreapp3.1\Student Information.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\obj\Debug\netcoreapp3.1\Student Information.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\obj\Debug\netcoreapp3.1\Student Information.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\obj\Debug\netcoreapp3.1\Student Information.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\obj\Debug\netcoreapp3.1\Student Information.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\obj\Debug\netcoreapp3.1\Student Information.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Student Information\obj\Debug\netcoreapp3.1\Student Information.genruntimeconfig.cache

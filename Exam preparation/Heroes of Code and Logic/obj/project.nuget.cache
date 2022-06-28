@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2oXxLpBjtzOXzw5KJ6YZ8h8iN88TGNk0jU9Bbh+n/SI3n3H2ihiVEO2P5f44C+IRGV5pgJugrIyxoggSUoue0A==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exam preparation\\Heroes of Code and Logic\\Heroes of Code and Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

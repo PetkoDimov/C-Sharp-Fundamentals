@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.exe
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.deps.json
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.dll
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\bin\Debug\netcoreapp3.1\KaminoFactory.pdb
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.dll
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.pdb
+D:\SoftUni20\C# Fundamentals\Arrays\KaminoFactory\obj\Debug\netcoreapp3.1\KaminoFactory.genruntimeconfig.cache

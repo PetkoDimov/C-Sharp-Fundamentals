@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.exe
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.deps.json
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.dll
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\bin\Debug\netcoreapp3.1\Sum Even Numbers.pdb
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.dll
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.pdb
+D:\SoftUni20\C# Fundamentals\Arrays\Sum Even Numbers\obj\Debug\netcoreapp3.1\Sum Even Numbers.genruntimeconfig.cache

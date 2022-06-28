@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nzj5hfbpRs7My6zb5LahOUqAz8TbxMohfTwvXpGXYO7P0CfmH9Lg98DGoTCNC31Z2KO7phx4x7FpBLRR6tsZtA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Arrays\\Train\\Train.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

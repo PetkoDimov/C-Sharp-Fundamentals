@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkRjTVRZLenFrYYI+sf+Je8MduPYwnwHQUxiAQWwym7SkP11/nPbLAA2v3wrP8tRVRk14WKsJwItdhbaS74EYA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\object and classes\\Factorial\\Factorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

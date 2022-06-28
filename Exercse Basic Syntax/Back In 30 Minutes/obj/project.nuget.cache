@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQYKa1LCSVXezKk2J5KzEYoh+E+VmexeW6dUkjFSJCPrNSLuVTYuRqk3MRW+M/NjXUb2fY+X5idVwKvPqhAwlw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exercse Basic Syntax\\Back In 30 Minutes\\Back In 30 Minutes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

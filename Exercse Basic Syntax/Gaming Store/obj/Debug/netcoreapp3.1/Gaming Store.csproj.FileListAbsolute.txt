@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.exe
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.deps.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\bin\Debug\netcoreapp3.1\Gaming Store.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Gaming Store\obj\Debug\netcoreapp3.1\Gaming Store.genruntimeconfig.cache

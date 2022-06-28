@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZSt/iULaH1dzTUSaxPNJzmsJtee55ZzMcbLaItQy4EV4poTqjtuO7QpXKO9u6nkEQRDMD6Kx1LxB28SbLP1hw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exercse Basic Syntax\\Foreign Languages\\Foreign Languages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

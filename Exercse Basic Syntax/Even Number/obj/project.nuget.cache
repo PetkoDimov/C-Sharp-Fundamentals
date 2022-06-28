@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRijRNi2gR2HYeqmHcvjcm89cI+eaGkLbonKZlW6CN+hPv3xZ1zHPCsm8S2ZVFIVbymnfgOMzh0iGBYqXvDk/g==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exercse Basic Syntax\\Even Number\\Even Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

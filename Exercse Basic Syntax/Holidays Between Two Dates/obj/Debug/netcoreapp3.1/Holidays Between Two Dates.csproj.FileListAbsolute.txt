@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.exe
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.deps.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\bin\Debug\netcoreapp3.1\Holidays Between Two Dates.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Holidays Between Two Dates\obj\Debug\netcoreapp3.1\Holidays Between Two Dates.genruntimeconfig.cache

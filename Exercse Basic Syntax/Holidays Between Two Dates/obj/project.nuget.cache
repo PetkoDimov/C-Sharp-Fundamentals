@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zz4wTOCkGM8TYAoSHBVvxi6c+1HGYkVVtjS3R63EFknztnNTikBPKHM06E0vHkLqVKRpkDZbH3q0FVsk3+fOGw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exercse Basic Syntax\\Holidays Between Two Dates\\Holidays Between Two Dates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

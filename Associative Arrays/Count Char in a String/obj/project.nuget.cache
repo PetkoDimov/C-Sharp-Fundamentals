@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8dw7TzPHI3GByGBaE2QqhSkTOq72IYLS3lwHb2k2yOlDPTQ0Y5VskUbL4N/aMd4xJqtC2//UCQFxGq47vxXIA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Associative Arrays\\Count Char in a String\\Count Char in a String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

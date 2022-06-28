@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XBC3Unk2CiV7iMKLZNBuzOT7zlw6Xs7Y4MMhthrL9k9oIuuqmvTqJGNo1y13mbFe7/HSojQ4+bFKrZp61uk1pg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Lists\\SoftUni Course Planning\\SoftUni Course Planning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

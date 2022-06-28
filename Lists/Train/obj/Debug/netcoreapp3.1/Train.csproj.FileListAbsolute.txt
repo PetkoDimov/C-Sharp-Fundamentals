@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Lists\Train\bin\Debug\netcoreapp3.1\Train.exe
+D:\SoftUni20\C# Fundamentals\Lists\Train\bin\Debug\netcoreapp3.1\Train.deps.json
+D:\SoftUni20\C# Fundamentals\Lists\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Lists\Train\bin\Debug\netcoreapp3.1\Train.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Lists\Train\bin\Debug\netcoreapp3.1\Train.dll
+D:\SoftUni20\C# Fundamentals\Lists\Train\bin\Debug\netcoreapp3.1\Train.pdb
+D:\SoftUni20\C# Fundamentals\Lists\Train\obj\Debug\netcoreapp3.1\Train.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Lists\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Lists\Train\obj\Debug\netcoreapp3.1\Train.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Lists\Train\obj\Debug\netcoreapp3.1\Train.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Lists\Train\obj\Debug\netcoreapp3.1\Train.dll
+D:\SoftUni20\C# Fundamentals\Lists\Train\obj\Debug\netcoreapp3.1\Train.pdb
+D:\SoftUni20\C# Fundamentals\Lists\Train\obj\Debug\netcoreapp3.1\Train.genruntimeconfig.cache

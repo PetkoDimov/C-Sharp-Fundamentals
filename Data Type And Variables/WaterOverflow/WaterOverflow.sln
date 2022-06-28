@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterOverflow", "WaterOverflow.csproj", "{DB2EFB58-5054-4AF2-8440-70B303718476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerKegs", "..\BeerKegs\BeerKegs.csproj", "{81E86E7B-30C0-4BC4-AF9E-9EAE2DFD837A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokemon", "..\Pokemon\Pokemon.csproj", "{524A2C3E-F9C3-4323-9972-9D5E8B9164FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2EFB58-5054-4AF2-8440-70B303718476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2EFB58-5054-4AF2-8440-70B303718476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2EFB58-5054-4AF2-8440-70B303718476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2EFB58-5054-4AF2-8440-70B303718476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E86E7B-30C0-4BC4-AF9E-9EAE2DFD837A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E86E7B-30C0-4BC4-AF9E-9EAE2DFD837A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E86E7B-30C0-4BC4-AF9E-9EAE2DFD837A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E86E7B-30C0-4BC4-AF9E-9EAE2DFD837A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524A2C3E-F9C3-4323-9972-9D5E8B9164FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524A2C3E-F9C3-4323-9972-9D5E8B9164FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524A2C3E-F9C3-4323-9972-9D5E8B9164FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524A2C3E-F9C3-4323-9972-9D5E8B9164FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DC445E0-864D-4FC1-A009-D65746C08420}
+	EndGlobalSection
+EndGlobal

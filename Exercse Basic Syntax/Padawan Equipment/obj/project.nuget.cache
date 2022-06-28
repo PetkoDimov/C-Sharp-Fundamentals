@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aEB+QK06+agA0KgsXWW83l/ZheZxhPfeKl9UZU3W7MBtKvGHTx9pZNHwHSTcwb2B1o7+6P/Mtf2Fw8peosxq9Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exercse Basic Syntax\\Padawan Equipment\\Padawan Equipment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

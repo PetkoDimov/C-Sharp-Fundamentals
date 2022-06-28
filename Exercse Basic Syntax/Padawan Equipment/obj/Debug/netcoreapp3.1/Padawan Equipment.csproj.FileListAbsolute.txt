@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.exe
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.deps.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\bin\Debug\netcoreapp3.1\Padawan Equipment.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Padawan Equipment\obj\Debug\netcoreapp3.1\Padawan Equipment.genruntimeconfig.cache

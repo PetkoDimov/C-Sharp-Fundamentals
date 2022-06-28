@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9bAH3PiQBjvkjbHtiUppjqJnzS85pQw8cqZ9ESUOJKbbxVUYsrMK4gUkUZqQ/aS6SmOkYgXfgt8w2K4ElX+XDg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exercse Basic Syntax\\Month Printer\\Month Printer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

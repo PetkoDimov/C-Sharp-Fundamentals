@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LCsGyFFqnrUjGNh53f/YsGkLPe/JPwIDYJ9R8pcd+yQEeUYZwd7tUivO40ioBFAvp4XdQrA1fVpJetMiLQjDsw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exercse Basic Syntax\\Multiplication Table 2.0\\Multiplication Table 2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

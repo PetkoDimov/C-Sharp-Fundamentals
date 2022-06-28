@@ -1,0 +1,12 @@
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.exe
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.deps.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\bin\Debug\netcoreapp3.1\Multiplication Table.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Multiplication Table\obj\Debug\netcoreapp3.1\Multiplication Table.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.exe
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.deps.json
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.dll
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\bin\Debug\netcoreapp3.1\MiddleCharacters.pdb
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.dll
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.pdb
+D:\SoftUni20\C# Fundamentals\Methods\MiddleCharacters\obj\Debug\netcoreapp3.1\MiddleCharacters.genruntimeconfig.cache

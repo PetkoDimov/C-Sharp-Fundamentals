@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RN01/vN6xhq0pksC2nPs8DsSjuw1UVU9I/qwoIe6hneZCHDZztcGRa07mAI3wBc4Ve71Y8RJS0dzwKPUIwUqmw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Methods\\Palindrome Integers\\Palindrome Integers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

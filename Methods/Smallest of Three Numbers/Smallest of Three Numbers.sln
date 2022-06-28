@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smallest of Three Numbers", "Smallest of Three Numbers.csproj", "{46A7C734-F46E-486B-BAC9-4AD842EA4106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelsCount", "..\VowelsCount\VowelsCount.csproj", "{EE7BD66A-0D03-49FF-97E7-012BE0011114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46A7C734-F46E-486B-BAC9-4AD842EA4106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A7C734-F46E-486B-BAC9-4AD842EA4106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A7C734-F46E-486B-BAC9-4AD842EA4106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A7C734-F46E-486B-BAC9-4AD842EA4106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7BD66A-0D03-49FF-97E7-012BE0011114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7BD66A-0D03-49FF-97E7-012BE0011114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7BD66A-0D03-49FF-97E7-012BE0011114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7BD66A-0D03-49FF-97E7-012BE0011114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E85136-55AA-46BF-95A3-842B1BD1E71E}
+	EndGlobalSection
+EndGlobal

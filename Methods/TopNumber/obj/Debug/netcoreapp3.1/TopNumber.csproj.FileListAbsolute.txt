@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.exe
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.deps.json
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.dll
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.pdb
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.dll
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.pdb
+D:\SoftUni20\C# Fundamentals\Methods\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.genruntimeconfig.cache

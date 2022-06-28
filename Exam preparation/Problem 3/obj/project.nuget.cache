@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TAOJ3HQxCWGvNRTYZjiQcEaj5m1Qq0fpB0OYl5k0Q7FKqMah9N/qKc9+AoVEs9Tf1XV1aZfEMlwH1auBM6H1Ng==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exam preparation\\Problem 3\\Problem 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\bin\Debug\netcoreapp3.1\Pirates.exe
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\bin\Debug\netcoreapp3.1\Pirates.deps.json
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\bin\Debug\netcoreapp3.1\Pirates.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\bin\Debug\netcoreapp3.1\Pirates.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\bin\Debug\netcoreapp3.1\Pirates.dll
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\bin\Debug\netcoreapp3.1\Pirates.pdb
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\obj\Debug\netcoreapp3.1\Pirates.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\obj\Debug\netcoreapp3.1\Pirates.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\obj\Debug\netcoreapp3.1\Pirates.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\obj\Debug\netcoreapp3.1\Pirates.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\obj\Debug\netcoreapp3.1\Pirates.dll
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\obj\Debug\netcoreapp3.1\Pirates.pdb
+D:\SoftUni20\C# Fundamentals\Exams\Pirates\obj\Debug\netcoreapp3.1\Pirates.genruntimeconfig.cache

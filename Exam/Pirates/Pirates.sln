@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pirates", "Pirates.csproj", "{6E53DF18-0CE2-42CA-84AB-7F9B20309064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crafting", "..\Crafting\Crafting.csproj", "{F799EF9A-3D7C-48C1-87D6-0CCBC21F5077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deck Of Cards", "..\Deck Of Cards\Deck Of Cards.csproj", "{5F62F324-FA2A-4153-BE8D-55924899F488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E53DF18-0CE2-42CA-84AB-7F9B20309064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E53DF18-0CE2-42CA-84AB-7F9B20309064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E53DF18-0CE2-42CA-84AB-7F9B20309064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E53DF18-0CE2-42CA-84AB-7F9B20309064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F799EF9A-3D7C-48C1-87D6-0CCBC21F5077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F799EF9A-3D7C-48C1-87D6-0CCBC21F5077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F799EF9A-3D7C-48C1-87D6-0CCBC21F5077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F799EF9A-3D7C-48C1-87D6-0CCBC21F5077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F62F324-FA2A-4153-BE8D-55924899F488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F62F324-FA2A-4153-BE8D-55924899F488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F62F324-FA2A-4153-BE8D-55924899F488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F62F324-FA2A-4153-BE8D-55924899F488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB2415C-E00C-4681-86F0-367AFF755223}
+	EndGlobalSection
+EndGlobal

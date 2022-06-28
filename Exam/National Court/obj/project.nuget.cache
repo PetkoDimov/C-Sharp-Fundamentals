@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R7flbVzufJxqhDOZ9OQ3XTGpKob7oiMpuWN+3ZWk3Rze3QIdGqXpq8RojbA6hrxBe1mU4PCtde7Tszx0tJfXSQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Exams\\National Court\\National Court.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

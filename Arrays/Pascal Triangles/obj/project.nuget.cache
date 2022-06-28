@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Qxd5uQILu+BC5xLG47xpY6zV55HEhS5kQkRq1xJBm512w20SO1eTx8a2a1UdD8ZFiv65qzb2FOPHLVeiKO8yA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Arrays\\Pascal Triangles\\Pascal Triangles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

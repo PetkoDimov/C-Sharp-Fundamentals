@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K89y4fRndoEXh6EWhU6jM5nwz9PKJTNeNH3tzJB17rcjGUmwfMBD4Tt6TB9ckr9K4aQcHi9ezq0OE3nNA0e10w==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Arrays\\ReverseString\\ReverseString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

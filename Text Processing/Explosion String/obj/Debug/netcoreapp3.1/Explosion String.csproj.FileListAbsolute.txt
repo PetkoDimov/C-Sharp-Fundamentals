@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\bin\Debug\netcoreapp3.1\Explosion String.exe
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\bin\Debug\netcoreapp3.1\Explosion String.deps.json
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\bin\Debug\netcoreapp3.1\Explosion String.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\bin\Debug\netcoreapp3.1\Explosion String.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\bin\Debug\netcoreapp3.1\Explosion String.dll
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\bin\Debug\netcoreapp3.1\Explosion String.pdb
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\obj\Debug\netcoreapp3.1\Explosion String.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\obj\Debug\netcoreapp3.1\Explosion String.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\obj\Debug\netcoreapp3.1\Explosion String.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\obj\Debug\netcoreapp3.1\Explosion String.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\obj\Debug\netcoreapp3.1\Explosion String.dll
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\obj\Debug\netcoreapp3.1\Explosion String.pdb
+D:\SoftUni20\C# Fundamentals\Text Processing\Explosion String\obj\Debug\netcoreapp3.1\Explosion String.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.exe
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.deps.json
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.dll
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\bin\Debug\netcoreapp3.1\Extract File.pdb
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.dll
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.pdb
+D:\SoftUni20\C# Fundamentals\Text Processing\Extract File\obj\Debug\netcoreapp3.1\Extract File.genruntimeconfig.cache

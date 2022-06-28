@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5i9z/bxzXoH3xFsyKXzkOe3uvbwAg/BgL9qG7O4V6nPYAAwEhIxXdFKmZl+OmvhHWrUU9+2QGJEAfVg3+ih2eg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Text Processing\\Caesar Cipher\\Caesar Cipher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

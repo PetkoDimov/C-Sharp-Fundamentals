@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YnKjtnlnER97gCwiRmjbMzvofxHicX/ntD5bpBq9iCrUkgoiq8peT7/MymE0T1dR/d/Bi2cjmBxpro0lEIAzWw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Regex\\Race\\Race.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

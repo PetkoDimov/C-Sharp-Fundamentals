@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rIcC/8dUf2h0HdyJZo9JF+tJBYEDk4kw3GuwOq0YYGEi0gYig2AR7l2HzgmYgQOJX/aZn8LjS8Q+lZFJdYQe7g==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Arrays\\Counter Strike\\Counter Strike.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

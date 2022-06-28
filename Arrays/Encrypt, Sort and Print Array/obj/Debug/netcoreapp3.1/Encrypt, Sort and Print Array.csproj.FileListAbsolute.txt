@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.exe
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.deps.json
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.dll
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\bin\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.pdb
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.dll
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.pdb
+D:\SoftUni20\C# Fundamentals\Arrays\Encrypt, Sort and Print Array\obj\Debug\netcoreapp3.1\Encrypt, Sort and Print Array.genruntimeconfig.cache

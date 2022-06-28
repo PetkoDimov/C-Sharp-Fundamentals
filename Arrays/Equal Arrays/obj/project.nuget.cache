@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I7ZATinr6S3NviX4bRzq0KKGcCS5d5ERmF4eitSeEg9ySl8Rq9+SXp1tLCSqcp1x1dyx0Qhehk2RGcVKFfBgCA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Arrays\\Equal Arrays\\Equal Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

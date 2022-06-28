@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RLneU0ZsypKqtESmC01eeVo+Hi1uV9Ek33hjBnDvi6GToK+lX3Ti2h/xYiSUVqr6+lr6OL0iWtBydQLvQ15AfA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Methods\\Add And Subtract\\Add And Subtract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

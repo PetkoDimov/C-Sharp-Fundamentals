@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\bin\Debug\netcoreapp3.1\Add And Subtract.exe
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\bin\Debug\netcoreapp3.1\Add And Subtract.deps.json
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\bin\Debug\netcoreapp3.1\Add And Subtract.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\bin\Debug\netcoreapp3.1\Add And Subtract.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\bin\Debug\netcoreapp3.1\Add And Subtract.dll
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\bin\Debug\netcoreapp3.1\Add And Subtract.pdb
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\obj\Debug\netcoreapp3.1\Add And Subtract.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\obj\Debug\netcoreapp3.1\Add And Subtract.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\obj\Debug\netcoreapp3.1\Add And Subtract.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\obj\Debug\netcoreapp3.1\Add And Subtract.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\obj\Debug\netcoreapp3.1\Add And Subtract.dll
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\obj\Debug\netcoreapp3.1\Add And Subtract.pdb
+D:\SoftUni20\C# Fundamentals\Methods\Add And Subtract\obj\Debug\netcoreapp3.1\Add And Subtract.genruntimeconfig.cache

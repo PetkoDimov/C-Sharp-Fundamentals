@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.exe
+D:\SoftUni20\C# Fundamentals\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.deps.json
+D:\SoftUni20\C# Fundamentals\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.dll
+D:\SoftUni20\C# Fundamentals\Methods\Grades\bin\Debug\netcoreapp3.1\Grades.pdb
+D:\SoftUni20\C# Fundamentals\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.dll
+D:\SoftUni20\C# Fundamentals\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.pdb
+D:\SoftUni20\C# Fundamentals\Methods\Grades\obj\Debug\netcoreapp3.1\Grades.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQJAD/jqzFi/zjM0U7VTf1BC/sdWsiHr/DnT2IU7IV4bf2syCRhILDmNE13vkdiAdo/mSmGLaurL3byHwQno4g==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Arrays\\NumbersInReverseOrder\\NumbersInReverseOrder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

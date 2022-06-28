@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.exe
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.deps.json
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.dll
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\bin\Debug\netcoreapp3.1\MagicSum.pdb
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.dll
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.pdb
+D:\SoftUni20\C# Fundamentals\Arrays\MagicSum\obj\Debug\netcoreapp3.1\MagicSum.genruntimeconfig.cache

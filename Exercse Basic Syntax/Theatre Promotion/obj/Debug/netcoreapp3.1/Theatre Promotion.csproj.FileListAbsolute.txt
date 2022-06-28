@@ -1,0 +1,13 @@
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\bin\Debug\netcoreapp3.1\Theatre Promotion.exe
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\bin\Debug\netcoreapp3.1\Theatre Promotion.deps.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\bin\Debug\netcoreapp3.1\Theatre Promotion.runtimeconfig.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\bin\Debug\netcoreapp3.1\Theatre Promotion.runtimeconfig.dev.json
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\bin\Debug\netcoreapp3.1\Theatre Promotion.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\bin\Debug\netcoreapp3.1\Theatre Promotion.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp3.1\Theatre Promotion.csprojAssemblyReference.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp3.1\Theatre Promotion.AssemblyInfoInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp3.1\Theatre Promotion.AssemblyInfo.cs
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp3.1\Theatre Promotion.csproj.CoreCompileInputs.cache
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp3.1\Theatre Promotion.dll
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp3.1\Theatre Promotion.pdb
+D:\SoftUni20\C# Fundamentals\Exercse Basic Syntax\Theatre Promotion\obj\Debug\netcoreapp3.1\Theatre Promotion.genruntimeconfig.cache

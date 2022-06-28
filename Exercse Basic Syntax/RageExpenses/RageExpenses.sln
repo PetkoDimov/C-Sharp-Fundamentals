@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RageExpenses", "RageExpenses.csproj", "{D038316E-15B4-46AB-A7C3-132A64DBC063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D038316E-15B4-46AB-A7C3-132A64DBC063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D038316E-15B4-46AB-A7C3-132A64DBC063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D038316E-15B4-46AB-A7C3-132A64DBC063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D038316E-15B4-46AB-A7C3-132A64DBC063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33A0E093-568B-454A-B399-57666EDAEF20}
+	EndGlobalSection
+EndGlobal

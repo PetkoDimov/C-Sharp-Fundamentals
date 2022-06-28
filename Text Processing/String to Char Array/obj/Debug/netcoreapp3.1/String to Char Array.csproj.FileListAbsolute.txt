@@ -1,0 +1,13 @@
+C:\Users\Close2die\source\repos\String to Char Array\bin\Debug\netcoreapp3.1\String to Char Array.exe
+C:\Users\Close2die\source\repos\String to Char Array\bin\Debug\netcoreapp3.1\String to Char Array.deps.json
+C:\Users\Close2die\source\repos\String to Char Array\bin\Debug\netcoreapp3.1\String to Char Array.runtimeconfig.json
+C:\Users\Close2die\source\repos\String to Char Array\bin\Debug\netcoreapp3.1\String to Char Array.runtimeconfig.dev.json
+C:\Users\Close2die\source\repos\String to Char Array\bin\Debug\netcoreapp3.1\String to Char Array.dll
+C:\Users\Close2die\source\repos\String to Char Array\bin\Debug\netcoreapp3.1\String to Char Array.pdb
+C:\Users\Close2die\source\repos\String to Char Array\obj\Debug\netcoreapp3.1\String to Char Array.csprojAssemblyReference.cache
+C:\Users\Close2die\source\repos\String to Char Array\obj\Debug\netcoreapp3.1\String to Char Array.AssemblyInfoInputs.cache
+C:\Users\Close2die\source\repos\String to Char Array\obj\Debug\netcoreapp3.1\String to Char Array.AssemblyInfo.cs
+C:\Users\Close2die\source\repos\String to Char Array\obj\Debug\netcoreapp3.1\String to Char Array.csproj.CoreCompileInputs.cache
+C:\Users\Close2die\source\repos\String to Char Array\obj\Debug\netcoreapp3.1\String to Char Array.dll
+C:\Users\Close2die\source\repos\String to Char Array\obj\Debug\netcoreapp3.1\String to Char Array.pdb
+C:\Users\Close2die\source\repos\String to Char Array\obj\Debug\netcoreapp3.1\String to Char Array.genruntimeconfig.cache

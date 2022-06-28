@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dR22K08qnKtHMu4iWj1qtJunl18Z42HwR5YqgFURyeglGucZ1O0gQGB1qwnWE9ccufCeIyjyPOkMn6K0vZlbkQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Text Processing\\Valid Username\\Valid Username.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

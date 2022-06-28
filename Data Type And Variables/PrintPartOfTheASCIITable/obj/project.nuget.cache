@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uAGMAlrKO7LTk2YmakqeMyvRmmuRm4KhxfljDPJaKEblzUGJHuxXXaJZvndrBoyQAXN9/XlpteS72c7qe2Vlmg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\C# Fundamentals\\Data Type And Variables\\PrintPartOfTheASCIITable\\PrintPartOfTheASCIITable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
